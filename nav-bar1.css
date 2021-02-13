@@ -9,6 +9,18 @@ body{
 
 }
 
+
+.nav-bar12345{
+    background-color: black; 
+    text-decoration-color: white;
+    text-decoration:none;
+    height: 200px;
+    padding: 2px; 
+    display: inline-block;
+}
+
+
+
 div{
     border: 1px solid black;
     height: 300px;
